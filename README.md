@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Hi, I’m Reiner, a passionate self-taught software developer.
-🧑🏻‍💻 Recently, I got my master degree in Cybersecurity in Canada.
-😋 I love coding for fun and aim to become a full-stack development engineer.
-🔥 My passion for software development comes from transforming ideas into reality through code, so that more people can benefit from them.
+🔭 Hi, I’m Reiner, a passionate self-taught software developer.  
+
+🧑🏻‍💻 Recently, I got my master degree in Cybersecurity in Canada.  
+
+😋 I love coding for fun and aim to become a full-stack development engineer.  
+
+🔥 My passion for software development comes from transforming ideas into reality through code, so that more people can benefit from them.  
+
 🛠️ I use daily:Java Spring Redis Docker Jenkins Git GitHub

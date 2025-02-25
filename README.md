@@ -37,7 +37,3 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/eMatthiola/eMatthiola/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ---
-
-## GitHub Stats 📊  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eMatthiola&show_icons=true&theme=dark)  

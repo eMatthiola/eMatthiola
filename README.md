@@ -24,9 +24,9 @@
 ---
 
 ## 🏆 My LeetCode Progress
-[![LeetCode](https://leetcard.jacoblin.cool/liyouwie654321)](https://leetcode.com/liyouwie654321/)
+[![LeetCode](https://leetcard.jacoblin.cool/liyouwie654321)](https://leetcode.com/u/liyouwei654321/)
 
-📚 Check out my LeetCode profile: [My LeetCode](https://leetcode.com/liyouwie654321/)
+📚 Check out my LeetCode profile: [My LeetCode](https://leetcode.com/u/liyouwei654321/)
 
 ---
 

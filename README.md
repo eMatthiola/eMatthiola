@@ -33,7 +33,5 @@
 
 ## GitHub Contributions Snake 🐍
 
-![GitHub Snake Light](https://raw.githubusercontent.com/eMatthiola/eMatthiola/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/eMatthiola/eMatthiola/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ---

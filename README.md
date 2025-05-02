@@ -10,7 +10,7 @@
 
 - 🔭 Hi, I’m **Reiner**, a passionate self-taught software developer.  
 - 🧑🏻‍💻 Recently, I got my **Master's degree in Cybersecurity** in Canada.  
-- 😋 I love coding for fun and aim to become a **full-stack development engineer**.  
+- 😋 I love coding
 - 🔥 My passion for software development comes from transforming ideas into reality through code, so that more people can benefit from them.  
 - 🛠️ I use daily:  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
